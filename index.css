@@ -55,6 +55,10 @@ button:hover {
 }
 
 #resposta {
+  margin-bottom: 50px;
+}
+
+#resposta {
   margin-top: 30px;
 
   transition: opacity 1s;
